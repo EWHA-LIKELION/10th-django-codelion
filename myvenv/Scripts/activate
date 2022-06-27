@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\jain5\Desktop\codelion_snsproject\myvenv"
+VIRTUAL_ENV="C:\Users\jain5\Desktop\codelion_movieproject\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
