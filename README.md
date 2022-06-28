@@ -1,1 +1,0 @@
-# 10th-django-codelion
